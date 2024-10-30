@@ -1,0 +1,12 @@
+.job-section .listings li {
+  margin: 0;
+  padding:1.5rem;
+  list-style-type: none;
+}
+
+.job-section .listings li h4 {
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    margin-right: 115px;
+    overflow: hidden;
+}
